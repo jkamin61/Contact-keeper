@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Contact-keeper/static/css/main.b383e364.css",
+    "main.js": "/Contact-keeper/static/js/main.bbbc5fc1.js",
+    "index.html": "/Contact-keeper/index.html",
+    "main.b383e364.css.map": "/Contact-keeper/static/css/main.b383e364.css.map",
+    "main.bbbc5fc1.js.map": "/Contact-keeper/static/js/main.bbbc5fc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b383e364.css",
+    "static/js/main.bbbc5fc1.js"
+  ]
+}
